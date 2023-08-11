@@ -1,4 +1,4 @@
-Gryph Request Anonymiser
+Glyph Request Anonymiser
 ===
 
 課題認識
